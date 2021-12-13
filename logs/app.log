@@ -1,0 +1,6 @@
+2021-12-13 17:15:52.066 INFO  [  restartedMain] com.boots.Application                    : Starting Application on workspace with PID 4791 (/home/workspace/help-master/target/classes started by workspace in /home/workspace/help-master)
+2021-12-13 17:15:52.111 DEBUG [  restartedMain] com.boots.Application                    : Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-12-13 17:15:52.123 INFO  [  restartedMain] com.boots.Application                    : The following profiles are active: dev
+2021-12-13 17:19:58.704 INFO  [  restartedMain] com.boots.Application                    : Starting Application on workspace with PID 5258 (/home/workspace/help-master/target/classes started by workspace in /home/workspace/help-master)
+2021-12-13 17:19:58.743 DEBUG [  restartedMain] com.boots.Application                    : Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-12-13 17:19:58.744 INFO  [  restartedMain] com.boots.Application                    : The following profiles are active: dev
